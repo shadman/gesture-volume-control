@@ -5,7 +5,17 @@ Control volume by gesture and using opencv python, inside files you may find bas
 ## Run:
 > python gestureVolumeControl.py
 this script is using our own module: 'advanceHandTrackingModule.py' 
+to quite, press 'q'
 
+
+## Working Demo
+
+![alt sample demo](https://github.com/shadman/gesture-volume-control/blob/main/img/preview.png)
+
+
+## Hints
+
+![alt hint](https://github.com/shadman/gesture-volume-control/blob/main/img/hand-hints.png)
 
 ## Basics:
 
