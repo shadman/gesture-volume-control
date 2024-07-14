@@ -1,10 +1,10 @@
 # Gesture Volume Control
 
-Control volume by gesture and using opencv python, inside files you may find basic and step by step increment in algo
+Control volume by gesture and using opencv python, inside files you may find basic and step-by-step increment in algo
 
 ## Run:
 > python gestureVolumeControl.py
-this script is using our own module: 'advanceHandTrackingModule.py' 
+this script uses our module: 'advanceHandTrackingModule.py' 
 to quite, press 'q'
 
 
